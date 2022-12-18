@@ -1,0 +1,17 @@
+ul{
+    border: dashed black;
+    inline-size: auto;
+}
+div{
+    border: solid black;
+    inline-size: 15%;
+}
+input{
+    margin: 5px;
+}
+label{
+    margin: 5px;
+}
+textarea{
+    margin: 5px;
+}
